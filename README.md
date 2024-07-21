@@ -18,3 +18,9 @@ Equilibrium 2:
 ![alt text](https://github.com/comancheace/Equilibrium_2/blob/main/1.jpg?raw=true)
 
 ![alt text](https://github.com/comancheace/Equilibrium_2/blob/main/2.jpg?raw=true)
+
+Equilibrium 2 MIT App Inventor Project File to control the robot via Android Bluetooth with the smart phone accelerometer:
+
+https://github.com/comancheace/Equilibrium_2/blob/main/Equilibrium_2_MIT_App_Inventor_Project.aia
+
+https://appinventor.mit.edu/
