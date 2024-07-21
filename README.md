@@ -5,7 +5,9 @@ Work in progress!
 
 Prototype for study only!
 
-Thank you! Kind regards!
+Thank you!
+
+Kind regards!
 
 Concept Art made in Blender 3D
 
