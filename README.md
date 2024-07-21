@@ -1,5 +1,5 @@
 # Equilibrium_2
-Self balanced 2WD wheel car robot
+Self balanced 2WD wheel car robot made with Arduino
 
 Work in progress!
 
