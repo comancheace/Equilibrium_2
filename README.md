@@ -23,4 +23,8 @@ Equilibrium 2 MIT App Inventor Project File to control the robot via Android Blu
 
 https://github.com/comancheace/Equilibrium_2/blob/main/Equilibrium_2_MIT_App_Inventor_Project.aia
 
+Android apk:
+
+[Equilibrium_2_3.apk](https://github.com/comancheace/Equilibrium_2/blob/main/Equilibrium_2_3.apk)
+
 https://appinventor.mit.edu/
